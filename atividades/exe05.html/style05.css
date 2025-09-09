@@ -1,0 +1,29 @@
+.imagem{
+    /* Aplicando tamanho em largura */
+    width: 500px;
+    /* aplicando tamanho em altura  */
+    height: 200px;
+}
+
+.formulario{
+    background-color: darkgray;
+    width: 400px;
+    margin: 0 auto;
+    /* Alinhar o conteudo interno. centraliza */
+    text-align: center;
+}
+
+.titulo{
+    background-color:darkblue;
+    color:black;
+    /* aplica margem em todas as laterais */
+    /* margin: 10px; */
+    /* margin-left: 20px; */
+    /* Aplico o espaçamento no superior e inferior*/
+    /* e Aplico tambem nas laterais esquerda e direita*/
+    /*margin: 20px 0;*/
+    margin: 0 25px 0 0;
+    /* Aplicando espaçamento interno */
+    /* padding: 10px; */
+    padding: 0 10px;
+}
